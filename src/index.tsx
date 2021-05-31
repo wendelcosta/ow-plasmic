@@ -2,11 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './components/Homepage';
+import Wendel from './components/Wendel'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <>
+    <Wendel />
     <Home />
+    </>
   </React.StrictMode>,
   document.getElementById('root')
 );
