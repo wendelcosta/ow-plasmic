@@ -8,6 +8,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <>
+    {/* @ts-ignore */}
     <Wendel />
     <Home />
     </>
