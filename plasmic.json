@@ -47,7 +47,7 @@
           "projectId": "aZpqwzEqMU83o5JsBEvwHw",
           "renderModuleFilePath": "plasmic/blank_project/PlasmicParagraph.tsx",
           "importSpec": {
-            "modulePath": "NewComponent.tsx"
+            "modulePath": "Paragraph.tsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicParagraph.module.css",
           "scheme": "blackbox",
