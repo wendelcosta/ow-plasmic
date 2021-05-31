@@ -39,6 +39,19 @@
           "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "JWuSu6KynG",
+          "name": "Paragraph",
+          "type": "managed",
+          "projectId": "aZpqwzEqMU83o5JsBEvwHw",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicParagraph.tsx",
+          "importSpec": {
+            "modulePath": "NewComponent.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicParagraph.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [],
